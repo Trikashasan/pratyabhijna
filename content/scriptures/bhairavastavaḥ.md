@@ -7,16 +7,16 @@
 — `MAHĀMAHEŚVARĀĊĀRYA ABHINAVAGUPTAḤ`
 
 
-`व्याप्तचराचरभावविशेषं`
-`चिन्मयमेकमनन्तमनादिम्।`
-`भैरवनाथमनाथशरण्यं`
-`तन्मयचित्ततया हृदि वन्दे॥१॥`
+`व्याप्तचराचरभावविशेषं`</span>
+`चिन्मयमेकमनन्तमनादिम्।`</span>
+`भैरवनाथमनाथशरण्यं`</span>
+`तन्मयचित्ततया हृदि वन्दे॥१॥`</span>
 
 transliteration:—
-`vyāpta-carācara-bhāva-viśeṣaṁ`
-`cinmayam-ekam-anantam-anādim |`
-`bhairava-nātham-anātha-śaraṇyaṁ`
-`tan-maya-citta-tayā hṛdi vande |1|`
+`vyāpta-carācara-bhāva-viśeṣaṁ`</span>
+`cinmayam-ekam-anantam-anādim |`</span>
+`bhairava-nātham-anātha-śaraṇyaṁ`</span>
+`tan-maya-citta-tayā hṛdi vande |1|`</span>
 
 translation:— I do humbly venerate with unwavering devotion, I beseech Thee, O Supreme Lord Śiva, whose presence encompasseth all that is and ever shall be. Thou, in Thine infinite grace, dost unveil Thyself through realization as the boundless Bhairavanātha, the mighty Protector of the bereft and helpless. To Thee, O Eternal One, do I render mine prayer and homage, with all the fervor of mine soul.
 
