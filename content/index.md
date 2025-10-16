@@ -1,5 +1,5 @@
 ---
-{"title":"Ｎａｇｋｕｍａｒ です","date":"2024-09-13","publish":true,"path":"index.md","permalink":"/index/","PassFrontmatter":true,"created":"2025-03-14T16:42:29.481+05:30","updated":"2025-03-14T17:22:03.601+05:30"}
+{"title":"Pratyabhijnya","date":"2024-09-13","publish":true,"path":"index.md","permalink":"/index/","PassFrontmatter":true,"created":"2025-03-14T16:42:29.481+05:30","updated":"2025-03-14T17:22:03.601+05:30"}
 ---
 
 
